@@ -4,6 +4,15 @@ canvas {
   height: 100vh;
 }
 
+* {
+  margin: 0;
+}
+
+#c {
+  position: absolute;
+  z-index: -1;
+}
+
 body {
   margin: 0;
   padding: 0;
