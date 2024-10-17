@@ -10,4 +10,8 @@ body {
   overflow: hidden;
 }
 
+#cursor {
+  width: 2.5%;
+}
+
 /*# sourceMappingURL=style.css.map */
